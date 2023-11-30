@@ -1,0 +1,11 @@
+pandas
+ydata_profiling
+streamlit
+pip-chill==1.0.3
+plotly==5.18.0
+prettytable==3.6.0
+pydantic-settings==2.1.0
+streamlit-drawable-canvas==0.8.0
+streamlit-lottie==0.0.3
+streamlit-pandas-profiling==0.1.3
+sweetviz==2.3.1
